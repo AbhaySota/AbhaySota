@@ -30,7 +30,7 @@
 <h3 align="left">Get in Touch :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhaysota/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhaysota/" height="20" width="25" /></a>
-<a href="https://stackoverflow.com/users/abhay-sota" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abhaysota" height="20" width="25" /></a>
+<a href="https://stackoverflow.com/users/16738918/abhay-sota?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abhaysota" height="20" width="25" /></a>
 <a href="https://instagram.com/abhaysota" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhaysota" height="20" width="25" /></a></p>
 
 #### Hope you have a good day !
