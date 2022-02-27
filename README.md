@@ -15,19 +15,19 @@
 
 - 📫 How to reach me **abhaysota6719@gmail.com**
 
-- ⚡ Fun fact **I am good at chess !! Wanna play ? <a href="https://lichess.org/@/abhaysota" target="blank">Send a request..</a>**
+- ⚡ Fun fact **I am good at chess !! Wanna play ? <a href="https://lichess.org/@/abhaysota" target="_blank">Send a request..</a>**
 
 <h3 align="left">Get in Touch :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhaysota/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhaysota/" height="20" width="25" /></a>
-<a href="https://stackoverflow.com/users/abhay-sota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abhaysota" height="20" width="25" /></a>
-<a href="https://instagram.com/abhaysota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhaysota" height="20" width="25" /></a></p>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhaysota/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhaysota/" height="20" width="25" /></a>
+<a href="https://stackoverflow.com/users/abhay-sota" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abhaysota" height="20" width="25" /></a>
+<a href="https://instagram.com/abhaysota" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhaysota" height="20" width="25" /></a></p>
 
 ### Coding Profiles :
 <p align = "left">
-<a href="https://www.codechef.com/users/krypto02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="krypto02" height="20" width="25" /></a>
-<a href="https://codeforces.com/profile/krypto02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="krypto02" height="20" width="25" /></a>
-<a href="https://www.leetcode.com/krypto02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krypto02" height="20" width="25" /></a>
+<a href="https://www.codechef.com/users/krypto02" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="krypto02" height="20" width="25" /></a>
+<a href="https://codeforces.com/profile/krypto02" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="krypto02" height="20" width="25" /></a>
+<a href="https://www.leetcode.com/krypto02" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krypto02" height="20" width="25" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
